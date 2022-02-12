@@ -1,0 +1,17 @@
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/bin/Debug/net6.0/Send
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/bin/Debug/net6.0/Send.deps.json
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/bin/Debug/net6.0/Send.runtimeconfig.json
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/bin/Debug/net6.0/Send.dll
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/bin/Debug/net6.0/ref/Send.dll
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/bin/Debug/net6.0/Send.pdb
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/obj/Debug/net6.0/Send.csproj.AssemblyReference.cache
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/obj/Debug/net6.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/obj/Debug/net6.0/Send.AssemblyInfoInputs.cache
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/obj/Debug/net6.0/Send.AssemblyInfo.cs
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/obj/Debug/net6.0/Send.csproj.CoreCompileInputs.cache
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/obj/Debug/net6.0/Send.csproj.CopyComplete
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/obj/Debug/net6.0/Send.dll
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/obj/Debug/net6.0/ref/Send.dll
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/obj/Debug/net6.0/Send.pdb
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Send/obj/Debug/net6.0/Send.genruntimeconfig.cache

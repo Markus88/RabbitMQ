@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2550FCDA-9F28-4040-8B80-F2B35C882025}|Default">
+  <MonoDevelop.Ide.ItemProperties.Receive PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Receive.cs">
+    <Files>
+      <File FileName="Receive.cs" Line="11" Column="1" />
+      <File FileName="Receive.csproj" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Receive" expanded="True">
+            <Node name="Receive" expanded="True">
+              <Node name="Receive.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

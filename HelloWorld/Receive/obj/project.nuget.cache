@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ouQX/9Gv3o1imhpqNbZeqoRfXqR7isv/L8LeU0qp+VWXxP5ylp8/rtmTcG5q9lfZAg9VZtN25hq5CAtcnG4PmA==",
+  "success": true,
+  "projectFilePath": "/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/Receive.csproj",
+  "expectedPackageFiles": [
+    "/Users/patricklange/.nuget/packages/rabbitmq.client/6.2.3/rabbitmq.client.6.2.3.nupkg.sha512",
+    "/Users/patricklange/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/patricklange/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

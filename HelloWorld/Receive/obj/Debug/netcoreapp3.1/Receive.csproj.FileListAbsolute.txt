@@ -1,0 +1,17 @@
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/bin/Debug/netcoreapp3.1/Receive
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/bin/Debug/netcoreapp3.1/Receive.deps.json
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/bin/Debug/netcoreapp3.1/Receive.runtimeconfig.json
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/bin/Debug/netcoreapp3.1/Receive.runtimeconfig.dev.json
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/bin/Debug/netcoreapp3.1/Receive.dll
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/bin/Debug/netcoreapp3.1/Receive.pdb
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/obj/Debug/netcoreapp3.1/Receive.csproj.AssemblyReference.cache
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/obj/Debug/netcoreapp3.1/Receive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/obj/Debug/netcoreapp3.1/Receive.AssemblyInfoInputs.cache
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/obj/Debug/netcoreapp3.1/Receive.AssemblyInfo.cs
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/obj/Debug/netcoreapp3.1/Receive.csproj.CoreCompileInputs.cache
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/obj/Debug/netcoreapp3.1/Receive.csproj.CopyComplete
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/obj/Debug/netcoreapp3.1/Receive.dll
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/obj/Debug/netcoreapp3.1/Receive.pdb
+/Users/patricklange/Programming Git.nosync/RabbitMQ/HelloWorld/Receive/obj/Debug/netcoreapp3.1/Receive.genruntimeconfig.cache
