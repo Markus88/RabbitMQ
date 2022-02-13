@@ -6,5 +6,9 @@ Run the following commands
   - brew install rabbitmq
   - export PATH=$PATH:/usr/local/sbin
       *OBS! once PATH is set, restart the computer
-  - The server can then be started with 'rabbitmq-server' in the foreground 
-  - or with brew services 'start rabbitmq' to have it run under launched in the background.
+      
+  - Start server:
+   * The server can then be started with 'rabbitmq-server' in the foreground 
+   * or with brew services 'start rabbitmq' to have it run under launched in the background.
+  - Stop server:
+   * sudo -u rabbitmq-server rabbitmqctl stop
